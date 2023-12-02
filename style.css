@@ -1,0 +1,25 @@
+body{
+    background-image: url("./img.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    .top-left {
+        position: absolute;
+        color: white;
+        top: 10px;
+        left: 15px;
+        }
+        #first{
+            text-align: center;
+            color: white;
+            margin-top: 300px;
+        }
+        .second{
+            text-align: center;
+            margin-top: 5px;
+            color: white;
+            text-decoration: overline;
+            
+        }
+        
